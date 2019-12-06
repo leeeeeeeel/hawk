@@ -1,2 +1,2 @@
 # hawk
-object oriented efficiency seeking programming language
+Object oriented efficiency seeking programming language
